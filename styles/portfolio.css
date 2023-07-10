@@ -167,3 +167,17 @@ nav {
     font-weight: 400;
     line-height: 28px;
 }
+
+/* resume-section-style */
+
+.resume-column-title{
+    color: #474747
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.resume-column{
+    display: flex;
+    gap: 50px;
+
+}
